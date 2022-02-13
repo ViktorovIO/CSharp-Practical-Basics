@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rFN2qWKh14W5btFqFoFYbr0SuRjeKhA0SWgfnGGG8L5cd+nW4mryHIyC13/QUr5tEjWUlIBkYT1gwDWpQOCkJA==",
+  "success": true,
+  "projectFilePath": "D:\\СИНХ\\4 семестр\\2. ООП (Курсач)\\Lab1PlaceGroup\\Lab1PlaceGroup\\Lab1PlaceGroup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\darti\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\darti\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

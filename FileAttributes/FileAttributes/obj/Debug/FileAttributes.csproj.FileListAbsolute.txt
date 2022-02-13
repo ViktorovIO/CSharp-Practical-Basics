@@ -1,0 +1,10 @@
+C:\Users\Белочка\source\repos\FileAttributes\FileAttributes\bin\Debug\FileAttributes.exe.config
+C:\Users\Белочка\source\repos\FileAttributes\FileAttributes\bin\Debug\FileAttributes.exe
+C:\Users\Белочка\source\repos\FileAttributes\FileAttributes\bin\Debug\FileAttributes.pdb
+C:\Users\Белочка\source\repos\FileAttributes\FileAttributes\obj\Debug\FileAttributes.csprojAssemblyReference.cache
+C:\Users\Белочка\source\repos\FileAttributes\FileAttributes\obj\Debug\FileAttributes.Form1.resources
+C:\Users\Белочка\source\repos\FileAttributes\FileAttributes\obj\Debug\FileAttributes.Properties.Resources.resources
+C:\Users\Белочка\source\repos\FileAttributes\FileAttributes\obj\Debug\FileAttributes.csproj.GenerateResource.cache
+C:\Users\Белочка\source\repos\FileAttributes\FileAttributes\obj\Debug\FileAttributes.csproj.CoreCompileInputs.cache
+C:\Users\Белочка\source\repos\FileAttributes\FileAttributes\obj\Debug\FileAttributes.exe
+C:\Users\Белочка\source\repos\FileAttributes\FileAttributes\obj\Debug\FileAttributes.pdb

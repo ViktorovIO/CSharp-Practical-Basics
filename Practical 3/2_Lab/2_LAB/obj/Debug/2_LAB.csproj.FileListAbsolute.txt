@@ -1,0 +1,13 @@
+C:\Users\DOM\Desktop\7 лаб\2\2_LAB\2_LAB\bin\Debug\2_LAB.exe.config
+C:\Users\DOM\Desktop\7 лаб\2\2_LAB\2_LAB\bin\Debug\2_LAB.exe
+C:\Users\DOM\Desktop\7 лаб\2\2_LAB\2_LAB\bin\Debug\2_LAB.pdb
+C:\Users\DOM\Desktop\7 лаб\2\2_LAB\2_LAB\obj\Debug\2_LAB.csprojAssemblyReference.cache
+C:\Users\DOM\Desktop\7 лаб\2\2_LAB\2_LAB\obj\Debug\2_LAB.csproj.CoreCompileInputs.cache
+C:\Users\DOM\Desktop\7 лаб\2\2_LAB\2_LAB\obj\Debug\2_LAB.exe
+C:\Users\DOM\Desktop\7 лаб\2\2_LAB\2_LAB\obj\Debug\2_LAB.pdb
+D:\СИНХ\4 семестр\2. ООП (Курсач)\Практическая работа 3\2\2_LAB\2_LAB\bin\Debug\2_LAB.exe.config
+D:\СИНХ\4 семестр\2. ООП (Курсач)\Практическая работа 3\2\2_LAB\2_LAB\bin\Debug\2_LAB.exe
+D:\СИНХ\4 семестр\2. ООП (Курсач)\Практическая работа 3\2\2_LAB\2_LAB\bin\Debug\2_LAB.pdb
+D:\СИНХ\4 семестр\2. ООП (Курсач)\Практическая работа 3\2\2_LAB\2_LAB\obj\Debug\2_LAB.csprojAssemblyReference.cache
+D:\СИНХ\4 семестр\2. ООП (Курсач)\Практическая работа 3\2\2_LAB\2_LAB\obj\Debug\2_LAB.exe
+D:\СИНХ\4 семестр\2. ООП (Курсач)\Практическая работа 3\2\2_LAB\2_LAB\obj\Debug\2_LAB.pdb

@@ -1,0 +1,9 @@
+C:\Users\yaroc\OneDrive\Рабочий стол\6\bin\Debug\readonly-bytes.exe.config
+C:\Users\yaroc\OneDrive\Рабочий стол\6\bin\Debug\readonly-bytes.exe
+C:\Users\yaroc\OneDrive\Рабочий стол\6\bin\Debug\readonly-bytes.pdb
+C:\Users\yaroc\OneDrive\Рабочий стол\6\bin\Debug\nunit.framework.dll
+C:\Users\yaroc\OneDrive\Рабочий стол\6\bin\Debug\nunitlite.dll
+C:\Users\yaroc\OneDrive\Рабочий стол\6\obj\Debug\hashes-readonly-bytes.csprojAssemblyReference.cache
+C:\Users\yaroc\OneDrive\Рабочий стол\6\obj\Debug\hashes-readonly-bytes.csproj.CopyComplete
+C:\Users\yaroc\OneDrive\Рабочий стол\6\obj\Debug\readonly-bytes.exe
+C:\Users\yaroc\OneDrive\Рабочий стол\6\obj\Debug\readonly-bytes.pdb

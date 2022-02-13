@@ -1,0 +1,26 @@
+C:\Users\yaroc\OneDrive\Рабочий стол\2\bin\Debug\HotelAccounting.exe.config
+C:\Users\yaroc\OneDrive\Рабочий стол\2\bin\Debug\HotelAccounting.exe
+C:\Users\yaroc\OneDrive\Рабочий стол\2\bin\Debug\HotelAccounting.pdb
+C:\Users\yaroc\OneDrive\Рабочий стол\2\obj\Debug\HotelAccounting.csprojAssemblyReference.cache
+C:\Users\yaroc\OneDrive\Рабочий стол\2\obj\Debug\MainWindow.g.cs
+C:\Users\yaroc\OneDrive\Рабочий стол\2\obj\Debug\HotelAccounting_MarkupCompile.cache
+C:\Users\yaroc\OneDrive\Рабочий стол\2\obj\Debug\HotelAccounting_MarkupCompile.lref
+C:\Users\yaroc\OneDrive\Рабочий стол\2\obj\Debug\MainWindow.baml
+C:\Users\yaroc\OneDrive\Рабочий стол\2\obj\Debug\HotelAccounting.g.resources
+C:\Users\yaroc\OneDrive\Рабочий стол\2\obj\Debug\HotelAccounting.Properties.Resources.resources
+C:\Users\yaroc\OneDrive\Рабочий стол\2\obj\Debug\HotelAccounting.csproj.GenerateResource.cache
+C:\Users\yaroc\OneDrive\Рабочий стол\2\obj\Debug\HotelAccounting.exe
+C:\Users\yaroc\OneDrive\Рабочий стол\2\obj\Debug\HotelAccounting.pdb
+S:\ИВТ-18-1\2\bin\Debug\HotelAccounting.exe.config
+S:\ИВТ-18-1\2\bin\Debug\HotelAccounting.exe
+S:\ИВТ-18-1\2\bin\Debug\HotelAccounting.pdb
+S:\ИВТ-18-1\2\obj\Debug\HotelAccounting.csprojAssemblyReference.cache
+S:\ИВТ-18-1\2\obj\Debug\MainWindow.g.cs
+S:\ИВТ-18-1\2\obj\Debug\HotelAccounting_MarkupCompile.cache
+S:\ИВТ-18-1\2\obj\Debug\HotelAccounting_MarkupCompile.lref
+S:\ИВТ-18-1\2\obj\Debug\MainWindow.baml
+S:\ИВТ-18-1\2\obj\Debug\HotelAccounting.g.resources
+S:\ИВТ-18-1\2\obj\Debug\HotelAccounting.Properties.Resources.resources
+S:\ИВТ-18-1\2\obj\Debug\HotelAccounting.csproj.GenerateResource.cache
+S:\ИВТ-18-1\2\obj\Debug\HotelAccounting.exe
+S:\ИВТ-18-1\2\obj\Debug\HotelAccounting.pdb

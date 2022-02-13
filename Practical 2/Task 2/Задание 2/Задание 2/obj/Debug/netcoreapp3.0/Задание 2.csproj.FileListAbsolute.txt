@@ -1,0 +1,11 @@
+D:\workspace\C#\Практическая работа 2\Задание 2\Задание 2\Задание 2\bin\Debug\netcoreapp3.0\Задание 2.exe
+D:\workspace\C#\Практическая работа 2\Задание 2\Задание 2\Задание 2\bin\Debug\netcoreapp3.0\Задание 2.deps.json
+D:\workspace\C#\Практическая работа 2\Задание 2\Задание 2\Задание 2\bin\Debug\netcoreapp3.0\Задание 2.runtimeconfig.json
+D:\workspace\C#\Практическая работа 2\Задание 2\Задание 2\Задание 2\bin\Debug\netcoreapp3.0\Задание 2.runtimeconfig.dev.json
+D:\workspace\C#\Практическая работа 2\Задание 2\Задание 2\Задание 2\bin\Debug\netcoreapp3.0\Задание 2.dll
+D:\workspace\C#\Практическая работа 2\Задание 2\Задание 2\Задание 2\bin\Debug\netcoreapp3.0\Задание 2.pdb
+D:\workspace\C#\Практическая работа 2\Задание 2\Задание 2\Задание 2\obj\Debug\netcoreapp3.0\Задание 2.csprojAssemblyReference.cache
+D:\workspace\C#\Практическая работа 2\Задание 2\Задание 2\Задание 2\obj\Debug\netcoreapp3.0\Задание 2.AssemblyInfoInputs.cache
+D:\workspace\C#\Практическая работа 2\Задание 2\Задание 2\Задание 2\obj\Debug\netcoreapp3.0\Задание 2.AssemblyInfo.cs
+D:\workspace\C#\Практическая работа 2\Задание 2\Задание 2\Задание 2\obj\Debug\netcoreapp3.0\Задание 2.dll
+D:\workspace\C#\Практическая работа 2\Задание 2\Задание 2\Задание 2\obj\Debug\netcoreapp3.0\Задание 2.pdb

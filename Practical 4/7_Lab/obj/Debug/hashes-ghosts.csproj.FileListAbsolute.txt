@@ -1,0 +1,9 @@
+C:\Users\yaroc\OneDrive\Рабочий стол\7\bin\Debug\ghost.exe.config
+C:\Users\yaroc\OneDrive\Рабочий стол\7\bin\Debug\ghost.exe
+C:\Users\yaroc\OneDrive\Рабочий стол\7\bin\Debug\ghost.pdb
+C:\Users\yaroc\OneDrive\Рабочий стол\7\bin\Debug\nunit.framework.dll
+C:\Users\yaroc\OneDrive\Рабочий стол\7\bin\Debug\nunitlite.dll
+C:\Users\yaroc\OneDrive\Рабочий стол\7\obj\Debug\hashes-ghosts.csprojAssemblyReference.cache
+C:\Users\yaroc\OneDrive\Рабочий стол\7\obj\Debug\hashes-ghosts.csproj.CopyComplete
+C:\Users\yaroc\OneDrive\Рабочий стол\7\obj\Debug\ghost.exe
+C:\Users\yaroc\OneDrive\Рабочий стол\7\obj\Debug\ghost.pdb
