@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Главная";
+}
+
+<br />
+<div class="text-center align-middle">
+    <h1 class="display-4">Logistic Manager Workspace. v.1.2.4</h1>
+    <p>Автоматизированное рабочее место менеджера по логистике.</p>
+</div>
+<div class="text-center align-middle">
+    <table class="table table-bordered table-dark">
+        <tbody>
+            <tr>
+                <th scope="row">
+                    <a class="btn btn-light btn-lg btn-block" asp-area="" asp-controller="Clients" asp-action="Create">Новый клиент</a>
+                </th>
+                <td>
+                    <a class="btn btn-light btn-lg btn-block" asp-area="" asp-controller="Categories" asp-action="Create">Новая категория</a>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row">
+                    <a class="btn btn-light btn-lg btn-block" asp-area="" asp-controller="Statuses" asp-action="Create">Новый статус</a>
+                </th>
+                <td>
+                    <a class="btn btn-light btn-lg btn-block" asp-area="" asp-controller="Services" asp-action="Create">Новая услуга</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>

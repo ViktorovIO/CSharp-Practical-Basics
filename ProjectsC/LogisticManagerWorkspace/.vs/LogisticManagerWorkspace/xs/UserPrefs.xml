@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{6BD07E03-BFE1-4BC6-AA8A-2EDD02E99A3A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LogisticManagerWorkspace/Startup.cs">
+    <Files>
+      <File FileName="LogisticManagerWorkspace/Data/LogisticManagerWorkspaceContext.cs" Line="1" Column="1" />
+      <File FileName="LogisticManagerWorkspace/Models/Category.cs" Line="1" Column="1" />
+      <File FileName="LogisticManagerWorkspace/Models/Client.cs" Line="1" Column="1" />
+      <File FileName="LogisticManagerWorkspace/Models/ClientServiceViewModel.cs" Line="1" Column="1" />
+      <File FileName="LogisticManagerWorkspace/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="LogisticManagerWorkspace/Models/SeedData.cs" Line="1" Column="1" />
+      <File FileName="LogisticManagerWorkspace/Models/Service.cs" Line="1" Column="1" />
+      <File FileName="LogisticManagerWorkspace/Models/Status.cs" Line="1" Column="1" />
+      <File FileName="LogisticManagerWorkspace/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="LogisticManagerWorkspace/appsettings.json" Line="1" Column="1" />
+      <File FileName="LogisticManagerWorkspace/Program.cs" Line="1" Column="1" />
+      <File FileName="LogisticManagerWorkspace/Startup.cs" Line="25" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LogisticManagerWorkspace" expanded="True">
+            <Node name="LogisticManagerWorkspace" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Categories" expanded="True" />
+                <Node name="Clients" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Services" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LogisticManagerWorkspace PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

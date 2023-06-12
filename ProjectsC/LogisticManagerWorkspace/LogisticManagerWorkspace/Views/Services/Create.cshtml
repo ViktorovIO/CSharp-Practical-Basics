@@ -1,0 +1,65 @@
+﻿@model LogisticManagerWorkspace.Models.ClientServiceViewModel
+
+@{
+    ViewData["Title"] = "Создание";
+}
+
+<h1>Редактирование:</h1>
+
+<h4>Услуга "@Html.DisplayFor(model => Model.Service.Name)":</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Service.Name" class="control-label"></label>
+                <select asp-for="Service.Name" asp-items="Model.Categories">
+                    <option value="">Без категории</option>
+                </select>
+                <span asp-validation-for="Service.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Service.Description" class="control-label"></label>
+                <input asp-for="Service.Description" class="form-control" />
+                <span asp-validation-for="Service.Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Service.Date" class="control-label"></label>
+                <input asp-for="Service.Date" class="form-control" />
+                <span asp-validation-for="Service.Date" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Service.ClientName" class="control-label"></label>
+                <select asp-for="Service.ClientName" asp-items="Model.Clients">
+                    <option value="">All</option>
+                </select>
+                <span asp-validation-for="Service.ClientName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Service.Cost" class="control-label"></label>
+                <input asp-for="Service.Cost" class="form-control" />
+                <span asp-validation-for="Service.Cost" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Service.Status" class="control-label"></label>
+                <select asp-for="Service.Status" asp-items="Model.Statuses">
+                    <option value="">Без статуса</option>
+                </select>
+                <span asp-validation-for="Service.Status" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Сохранить" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Назад к списку</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
